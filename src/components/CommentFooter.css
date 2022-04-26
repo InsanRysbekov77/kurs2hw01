@@ -1,0 +1,7 @@
+.footer {
+	font-family: 'Courier New', Courier, monospace;
+	width: 57%;
+    border-radius: 10px;
+    background: white;
+    box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
+}

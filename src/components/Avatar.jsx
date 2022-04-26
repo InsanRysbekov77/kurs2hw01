@@ -1,0 +1,8 @@
+import React from 'react';
+import './Avatar.css'
+
+const Avatar = (props) => {
+    return <img className='Avatar' src={props.author.avatarUrl} alt={props.author.name} />
+};
+
+export default Avatar;
